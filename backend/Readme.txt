@@ -1,0 +1,6 @@
+Default Users
+
+Username = alex10
+Password = alex10
+
+auth-token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjRhYTY0ZDkzMmVmMWVlZWM0ZDIxOWU2In0sImlhdCI6MTY4ODg4ODUzN30.YqDd-8KkzK2dTbXOEjJpisb6PjZJC5YfuJ6l_l5ZvFY
